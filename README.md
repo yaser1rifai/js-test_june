@@ -19,12 +19,12 @@ Here are the rules for a valid password:
 * The pin code should add up to at least 5
 
 
-* Examples: 
-* The following pin codes are valid:
+-Examples: 
+-The following pin codes are valid:
 * 1112
 * 1994
 
-* The following pin codes are invalid:
+-The following pin codes are invalid:
 * 1c24 // is not a number
 * 12344 // five digit pin code
 * 1235 // last digit is odd
